@@ -1,0 +1,7 @@
+O curso não é bom. Parece que não ouve um preparo de aula muito bom. 
+Não há explicações de teoria. Não há exemplos genericos. 
+Não há entregas de projetos pra que você aplique o que aprendeu.
+
+Ideia: 
+Quando eu Dominar esses assuntos montar um curso de C# com todos os conteudos.
+Será do basico ao avançado. Avera a entrega de um projeto no final de cada modulo. Slides com teoria sempre que possivel antes de ir para os codigos.

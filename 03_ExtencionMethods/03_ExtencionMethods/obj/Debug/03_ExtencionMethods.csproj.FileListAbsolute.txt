@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\bin\Debug\03_ExtencionMethods.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\bin\Debug\03_ExtencionMethods.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\bin\Debug\03_ExtencionMethods.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\obj\Debug\03_ExtencionMethods.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\obj\Debug\03_ExtencionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\obj\Debug\03_ExtencionMethods.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_ExtencionMethods\03_ExtencionMethods\obj\Debug\03_ExtencionMethods.pdb

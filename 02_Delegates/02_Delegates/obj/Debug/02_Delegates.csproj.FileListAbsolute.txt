@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\bin\Debug\02_Delegates.exe.config
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\bin\Debug\02_Delegates.exe
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\bin\Debug\02_Delegates.pdb
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\obj\Debug\02_Delegates.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\obj\Debug\02_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\obj\Debug\02_Delegates.exe
+C:\Users\Casa\Desktop\Estágio\C#\Curso C# avançado\02_Delegates\02_Delegates\obj\Debug\02_Delegates.pdb

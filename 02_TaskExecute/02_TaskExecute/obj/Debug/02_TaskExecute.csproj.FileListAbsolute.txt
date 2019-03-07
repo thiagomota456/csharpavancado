@@ -1,0 +1,7 @@
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\bin\Debug\02_TaskExecute.exe.config
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\bin\Debug\02_TaskExecute.exe
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\bin\Debug\02_TaskExecute.pdb
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\obj\Debug\02_TaskExecute.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\obj\Debug\02_TaskExecute.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\obj\Debug\02_TaskExecute.exe
+C:\Users\Casa\source\repos\02_TaskExecute\02_TaskExecute\obj\Debug\02_TaskExecute.pdb

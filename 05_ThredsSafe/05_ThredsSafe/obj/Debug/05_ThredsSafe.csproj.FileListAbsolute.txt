@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\bin\Debug\05_ThredsSafe.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\bin\Debug\05_ThredsSafe.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\bin\Debug\05_ThredsSafe.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\obj\Debug\05_ThredsSafe.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\obj\Debug\05_ThredsSafe.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\obj\Debug\05_ThredsSafe.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\05_ThredsSafe\05_ThredsSafe\obj\Debug\05_ThredsSafe.pdb

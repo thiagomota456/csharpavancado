@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\bin\Debug\08_AutoManual.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\bin\Debug\08_AutoManual.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\bin\Debug\08_AutoManual.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\obj\Debug\08_AutoManual.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\obj\Debug\08_AutoManual.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\obj\Debug\08_AutoManual.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\08_AutoManual\08_AutoManual\obj\Debug\08_AutoManual.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\bin\Debug\03_Multithreding.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\bin\Debug\03_Multithreding.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\bin\Debug\03_Multithreding.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\obj\Debug\03_Multithreding.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\obj\Debug\03_Multithreding.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\obj\Debug\03_Multithreding.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\03_Multithreding\03_Multithreding\obj\Debug\03_Multithreding.pdb

@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\bin\Debug\07_ThredingMethods.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\bin\Debug\07_ThredingMethods.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\bin\Debug\07_ThredingMethods.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\obj\Debug\07_ThredingMethods.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\obj\Debug\07_ThredingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\obj\Debug\07_ThredingMethods.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\07_ThredingMethods\07_ThredingMethods\obj\Debug\07_ThredingMethods.pdb

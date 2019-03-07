@@ -1,0 +1,6 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\bin\Debug\06_ThredId.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\bin\Debug\06_ThredId.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\bin\Debug\06_ThredId.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\obj\Debug\06_ThredId.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\obj\Debug\06_ThredId.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\06_ThredId\06_ThredId\obj\Debug\06_ThredId.pdb

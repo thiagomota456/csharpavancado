@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\obj\Debug\04_ThradingBackgraund.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\obj\Debug\04_ThradingBackgraund.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\bin\Debug\04_ThradingBackgraund.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\bin\Debug\04_ThradingBackgraund.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\bin\Debug\04_ThradingBackgraund.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\obj\Debug\04_ThradingBackgraund.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\04_ThradingBackgraund\04_ThradingBackgraund\obj\Debug\04_ThradingBackgraund.pdb

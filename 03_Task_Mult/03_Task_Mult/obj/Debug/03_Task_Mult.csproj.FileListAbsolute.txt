@@ -1,0 +1,6 @@
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\bin\Debug\03_Task_Mult.exe.config
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\bin\Debug\03_Task_Mult.exe
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\bin\Debug\03_Task_Mult.pdb
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\obj\Debug\03_Task_Mult.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\obj\Debug\03_Task_Mult.exe
+C:\Users\Casa\source\repos\03_Task_Mult\03_Task_Mult\obj\Debug\03_Task_Mult.pdb

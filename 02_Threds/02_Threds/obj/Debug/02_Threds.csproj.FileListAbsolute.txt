@@ -1,0 +1,7 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\bin\Debug\02_Threds.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\bin\Debug\02_Threds.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\bin\Debug\02_Threds.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\obj\Debug\02_Threds.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\obj\Debug\02_Threds.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\obj\Debug\02_Threds.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_Threds\02_Threds\obj\Debug\02_Threds.pdb

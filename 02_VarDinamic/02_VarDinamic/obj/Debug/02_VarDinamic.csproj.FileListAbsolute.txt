@@ -1,0 +1,10 @@
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\obj\Debug\02_VarDinamic.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\obj\Debug\02_VarDinamic.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\bin\Debug\02_VarDinamic.exe.config
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\bin\Debug\02_VarDinamic.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\bin\Debug\02_VarDinamic.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\bin\Debug\01_Generics.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\bin\Debug\01_Generics.pdb
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\obj\Debug\02_VarDinamic.csproj.CopyComplete
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\obj\Debug\02_VarDinamic.exe
+C:\Users\Casa\Desktop\Estágio\Curso C# avançado\02_VarDinamic\02_VarDinamic\obj\Debug\02_VarDinamic.pdb
